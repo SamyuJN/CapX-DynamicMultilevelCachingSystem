@@ -1,5 +1,4 @@
 # CapX-DynamicMultilevelCachingSystem
-# Dynamic Multilevel Caching System
 
 ## Overview
 
